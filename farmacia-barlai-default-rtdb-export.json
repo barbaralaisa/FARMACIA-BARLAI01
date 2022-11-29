@@ -1,0 +1,173 @@
+{
+  "farmacia": {
+    "clientes": [
+      null,
+      {
+        "cpf": "089.987.960 - 89",
+        "endereco": "santa terezinha",
+        "nome": "antonia raimunda",
+        "telefone": "88993456212"
+      },
+      {
+        "cpf": "098.789.567 - 87",
+        "endereco": "nova madalena",
+        "nome": "gabriel barbosa",
+        "telefone": "88997654321"
+      },
+      {
+        "cpf": "076.789.098 - 09",
+        "endereco": "centro",
+        "nome": "getulio silva",
+        "telefone": "88997685678"
+      },
+      {
+        "cpf": "123.987.098 - 86",
+        "endereco": "rua pinhos",
+        "nome": "railane sousa",
+        "telefone": "88997654321"
+      },
+      {
+        "cpf": "789.098.890 - 07",
+        "endereco": "santa terezinha",
+        "nome": "gabriel severo",
+        "telefone": "85997899876"
+      },
+      {
+        "cpf": "678.908.897 - 03",
+        "endereco": "nova madalena",
+        "nome": "kaiane rocha",
+        "telefone": "88992345631"
+      },
+      {
+        "cpf": "789.567.345 - 01",
+        "endereco": "centro",
+        "nome": "kaique do nascimento",
+        "telefone": "88993456212"
+      },
+      {
+        "cpf": "123.098.678 - 03",
+        "endereco": "agrovila",
+        "nome": "lohana kayla",
+        "telefone": "88997605684"
+      },
+      {
+        "cpf": "567.987.909 - 83",
+        "endereco": "centro",
+        "nome": "augusto ferreira",
+        "telefone": "889976859403"
+      },
+      {
+        "cpf": "543.987.678 -67",
+        "endereco": "santa terezinha",
+        "nome": "joselia araujo",
+        "telefone": "88997069857"
+      }
+    ],
+    "funcionarios": [
+      null,
+      {
+        "funcao": "atendente caixa",
+        "nome": "lohana",
+        "telefone": 88997654321
+      },
+      {
+        "funcao": "atendente caixa",
+        "nome": "joao",
+        "telefone": 88992345678
+      },
+      {
+        "funcao": "atendente caixa",
+        "nome ": "kaiane",
+        "telefone": 85988456734
+      },
+      {
+        "funcao": "faxineira",
+        "nome": "carla",
+        "telefone": 88994567849
+      },
+      {
+        "funcao": "farmaceutico",
+        "nome": "matheus",
+        "telefone": 85988456702
+      },
+      {
+        "funcao": "farmaceutico",
+        "nome": "julia",
+        "telefone": 88992346678
+      },
+      {
+        "funcao": "gerente",
+        "nome": "gabriel",
+        "telefone": 85997896789
+      },
+      {
+        "funcao": "fiscalizador de produtos",
+        "nome": "antonia",
+        "telefone": 88997654321
+      },
+      {
+        "funcao": "segurança",
+        "nome": "matias",
+        "telefone": 88996543210
+      },
+      {
+        "funcao": "manobrista",
+        "nome": "ricardo",
+        "telefone": 85998765439
+      }
+    ],
+    "produtos": [
+      null,
+      {
+        "fabricacao": "10/09/2022",
+        "nome": "cosmeticos",
+        "validade": "10/10/2022"
+      },
+      {
+        "fabricacao": "08/07/2021",
+        "nome": "suplementos",
+        "validade": "09/08/2024"
+      },
+      {
+        "fabricacao": "23/09/2020",
+        "nome": "produtos maternidade",
+        "validade": "10/22/2022"
+      },
+      {
+        "fabricacao": "12/01/2022",
+        "nome": "remedios",
+        "validade": "13/08/2023"
+      },
+      {
+        "fabricacao": "13/07/2021",
+        "nome": "produtos de uso hospitalar",
+        "validade": "12/04/2024"
+      },
+      {
+        "fabricacao": "12/06/2021",
+        "nome": "plantas medicinais",
+        "validade": "15/02/2025"
+      },
+      {
+        "fabricacao": "14/04/2021",
+        "nome": "perfumes",
+        "validade": "09/06/2023"
+      },
+      {
+        "fabricacao": "30/11/2022",
+        "nome": "palntas vegetais",
+        "validade": "22/02/2023"
+      },
+      {
+        "fabricacao": "23/03/2022",
+        "nome": "doces",
+        "validade": "30/01/2024"
+      },
+      {
+        "fabricacao": "24/04/2022",
+        "nome": "produtos de higiene pessoal",
+        "validade": "12/10/2024"
+      }
+    ]
+  }
+}
